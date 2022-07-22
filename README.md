@@ -1,6 +1,6 @@
 # Microsoft365.com/setup
 
-[![Microsoft365.com/setup](get-started.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com/)
+[![Microsoft365.com/setup](get-started.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com/)
 
 Microsoft 365 combines some of Microsoft’s most popular products, like Office 365 and Windows 10, and packages them into one affordable monthly subscription package at [Microsoft365.com/setup](https://m-microsoft365comsetup.github.io/). While you can use the individual applications independently if you already have them on your device, subscribing to Microsoft 365 will ensure that you always have the latest versions of the applications that you need to do your job effectively, so there’s no need to upgrade from the free trial or purchase any other applications when you subscribe to Microsoft 365.
 
